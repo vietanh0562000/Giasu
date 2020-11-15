@@ -1,0 +1,17 @@
+https://codelearn.io/sharing/mang-hai-chieu-mang-da-chieu-trong-cpp
+
+
+Bài toán số 1: Viết chương trình thao tác trên mảng 2 chiều với các công việc sau:
+
++ Nhập xuất mảng 2 chiều.
+
++ Đếm số lần xuất hiện giá trị 0 trong mảng.
+
+Bài 2: Viết chương trình nhập, xuất một mảng số nguyên hai chiều có m dòng và n cột. Xác định phần tử
+lớn nhất và nhỏ nhất trong mảng. 
+
+Bài 3: Cho một mảng số nguyên A có m dòng và n cột. Một phần tử được gọi là điểm yên ngựa nếu phần
+tử đó là phần tử nhỏ nhất trong dòng và lớn nhất trong cột. Viết chương trình xác định tất cả các đểm yên
+ngựa có thể có. 
+
+Bai 4. Viết hàm xóa một dòng của ma trận. Viết hàm xóa một cột của ma trận
